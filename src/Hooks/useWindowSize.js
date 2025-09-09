@@ -21,7 +21,7 @@ export const useWindowSize = () => {
 
     },[])
 
-  return size
+  return {size}   /* here size is an object which contains the object  */
 }
 
 export default useWindowSize
