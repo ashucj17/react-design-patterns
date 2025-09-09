@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import UserList from "../Components/UserList";
+import UserList from "../Components/UserList/UserList";
 import useFetch from "../Hooks/useFetch";
 
 const UserContainer = () => {
