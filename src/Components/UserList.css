@@ -2,3 +2,8 @@
     display: flex;
     flex-direction: row;
 }
+
+
+.userList > div{
+    padding:  0 20px;
+}
